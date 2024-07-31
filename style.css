@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .cabecalho-divisao {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 5%;
+    padding: 4%;
+  }
+  
+  .card-group {
+    padding: 4%;
+    gap: 3%;
+  }
+  
+  .divisao-conhecimento {
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+  }
+  
+  .apresentacao-redes__divisao {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 5% 3% 5% 0%;
+    text-decoration: none;
+  }
+  
+  .apresentacao-redes__divisao__redes {
+    display: flex;
+    justify-content: space-around;
+    padding: 1.3%;
+  }
